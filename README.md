@@ -2,6 +2,9 @@
 
 An interactive **Taxi Fare Analysis Dashboard** built in **Microsoft Power BI** to analyze ride bookings, revenue, cancellations, vehicle performance, ratings, and customer behavior.
 
+## Homepage
+![Taxi Fare Analysis Homepage](Homepage.png)
+
 ## Project Overview
 
 This project transforms raw taxi booking data into an interactive Business Intelligence dashboard that helps identify important trends and performance metrics.
